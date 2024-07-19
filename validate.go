@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/AlecAivazis/survey/v2/core"
+	"github.com/connor-ve/survey/v3/core"
 )
 
 // Required does not allow an empty value

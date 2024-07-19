@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/connor-ve/survey/v3/core"
+	"github.com/connor-ve/survey/v3/terminal"
 	expect "github.com/Netflix/go-expect"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

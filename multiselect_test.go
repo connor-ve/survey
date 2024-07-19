@@ -10,8 +10,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/connor-ve/survey/v3/core"
+	"github.com/connor-ve/survey/v3/terminal"
 )
 
 func init() {

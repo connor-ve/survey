@@ -2,7 +2,7 @@
 
 package main
 
-import "github.com/AlecAivazis/survey/v2"
+import "github.com/connor-ve/survey/v3"
 
 func main() {
 	color := ""

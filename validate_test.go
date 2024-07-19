@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/AlecAivazis/survey/v2/core"
+	"github.com/connor-ve/survey/v3/core"
 )
 
 func TestRequired_canSucceedOnPrimitiveTypes(t *testing.T) {

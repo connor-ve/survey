@@ -3,8 +3,8 @@
 package main
 
 import (
-	"github.com/AlecAivazis/survey/v2"
-	TestUtil "github.com/AlecAivazis/survey/v2/tests/util"
+	"github.com/connor-ve/survey/v3"
+	TestUtil "github.com/connor-ve/survey/v3/tests/util"
 )
 
 var (

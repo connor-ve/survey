@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AlecAivazis/survey/v2"
+	"github.com/connor-ve/survey/v3"
 )
 
 var simpleQs = []*survey.Question{

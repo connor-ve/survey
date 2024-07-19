@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/AlecAivazis/survey/v2"
+	"github.com/connor-ve/survey/v3"
 )
 
 func suggestFiles(toComplete string) []string {

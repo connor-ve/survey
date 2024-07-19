@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	survey "github.com/AlecAivazis/survey/v2"
+	survey "github.com/connor-ve/survey/v3"
 )
 
 // the questions to ask

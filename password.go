@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/connor-ve/survey/v3/core"
+	"github.com/connor-ve/survey/v3/terminal"
 )
 
 /*
